@@ -11,5 +11,6 @@
 ![image](https://github.com/Bananarya/Deep-Learning-Recommendation-System/assets/123018438/bcd0589d-bbaf-40d3-9612-245484bd8914)
 ## Deep Learning Recommendation Modelling
 ![image](https://github.com/Bananarya/Deep-Learning-Recommendation-System/assets/123018438/aa0a3c7c-67f7-401b-a517-5405518b1986)
+
 Using a merged dataset of product information and review information, building deep learning model that predict the possibility of specific customer with different features leaving a positive review for one sephora product.
 
